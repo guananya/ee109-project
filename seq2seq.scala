@@ -2,8 +2,8 @@ import spatial.dsl._
 
 @spatial class Seq2SeqInference extends SpatialTest {
 
-  val vocabSize = 256
-  val maxTextLength = 128
+  val vocabSize = 56
+  val maxTextLength = 52
   val flattenedSize = vocabSize * maxTextLength
   val dense1Size = 512
   type T = FixPt[TRUE,_16,_16] 
