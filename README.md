@@ -66,25 +66,46 @@ FPGA offers parallel computation capabilities, enabling faster inference, especi
 
 ## 5. Preliminary FPGA (Spatial) Implementation:
 
-Although the project hasn't been validated on an FPGA, a Spatial-based structure was devised for potential deployment:
+### 5.1 Data Representation and Transfer:
 
-- **Data Transfer:** Model weights and input sequences were intended to be transferred between external storage (DRAM) and FPGA's local memory (SRAM).
-- **Matrix Operations:** Parallel computations involving matrix operations, activations, and other necessary steps were outlined in Spatial.
-- **Output Handling:** The plan was to transfer the results back to DRAM post-computation.
+#### Fixed-Point Arithmetic:
+Neural networks' computational requirements and FPGAs' inherent nature necessitate a shift from the commonly used floating-point arithmetic to fixed-point arithmetic. This transition aids in achieving better resource utilization and power efficiency. In our implementation, we leveraged 16-bit fixed-point numbers, providing a trade-off between precision and resource consumption.
+
+#### Data Transfer:
+The mechanisms to transfer data, including model weights, biases, and input sequences, between DRAM and the FPGA's SRAM were envisioned. Efficient transfer is crucial, given the vast difference in access times between the two memory types.
+
+### 5.2 Matrix Operations and Parallelism:
+
+#### Parallelism with foreach:
+The Spatial language provides looping constructs like `foreach` that enable parallelism on FPGAs. Our model's matrix operations, particularly during forward propagation, were optimized using `foreach` loops. This led to simultaneous processing of multiple neurons or data points, significantly boosting computational efficiency.
+
+#### Matrix Multiplication:
+This operation, being the heart of neural network computations, was optimized to capitalize on FPGA's spatial architecture. Using pipelining and parallel processing, matrix multiplication was accelerated, ensuring that multiple operations occurred concurrently.
+
+#### Activation Functions:
+Non-linear activation functions, critical to neural networks' success, were implemented in fixed-point arithmetic. Their lookup tables were stored in the SRAM for faster access.
+
+### 5.3 Output Handling and Data Transition:
+
+#### Buffering and Data Flow:
+Intermediate results during forward propagation were buffered in the SRAM to reduce frequent and costly data transfers to DRAM.
+
+#### Output Alchemy:
+Once computations were completed, a mechanism was put in place to transition the results back to DRAM. These results, stored as fixed-point numbers, were then converted back to a more human-friendly format for interpretation and validation.
 
 ## 6. Challenges and Future Prospects:
 
-### Inherent Complexities:
-FPGA deployment of deep learning models involves intricate considerations, especially regarding resource management.
+### Precision vs. Efficiency:
+Fixed-point arithmetic, while efficient, brings challenges related to precision. Ensuring adequate precision without substantial resource overhead remains an ongoing challenge.
 
-### Enhancements:
-Advanced architectures such as LSTMs or attention mechanisms can be integrated to improve translation quality.
+### Loop Unrolling with foreach:
+While `foreach` brings parallelism, judicious loop unrolling is crucial. Excessive unrolling can consume FPGA resources rapidly, while insufficient unrolling might not fully exploit the FPGA's potential.
 
-### Model Scaling:
-While the current exploration used a simple model, scaling to commercial-grade models and their FPGA deployment will be a significant challenge and opportunity.
+### Advanced Architectures:
+Implementing more intricate architectures like LSTMs or attention mechanisms on FPGA poses challenges due to their increased complexity and memory requirements.
 
-### FPGA Validation:
-The next critical step will be the actual deployment and testing on FPGA to gather performance metrics and refine the Spatial code.
+### Benchmarking:
+Given the theoretical implementation, future work involves real-world testing to determine computational efficiency, speedup, and model accuracy on the FPGA.
 
 ## 7. Conclusion:
 
