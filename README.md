@@ -9,6 +9,9 @@ In the era of globalization, the ability to break linguistic barriers can provid
 ### Objective:
 The primary objective of this project is to harness the computational power of FPGA chips, known for their parallelism and customization, to execute a sequence-to-sequence model for English-to-French translation. The project uses the Spatial language, which is designed specifically for high-level synthesis targeting FPGAs.
 
+### To recreate:
+On running the python code, download the csv weight files and also take note of the vocabSize and maxTextLength reported in the .ipynb file and change those variables accordingly in the spatial file. Then, to run inference in spatial, choose an english sentence and first run it in the python inference code. Then, you will get the python french translation and also download the input_one_hot_flattened.csv file from the .ipynb notebook. Then, upload all csv files accordingly to the same spatial directory your code is written in, and run it. 
+
 ## 2. Model Architecture and Data Processing:
 
 ### 2.1 Sequence-to-Sequence Model:
