@@ -1,4 +1,5 @@
 import spatial.dsl._
+import virtualized._
 
 @spatial class Seq2SeqInference extends SpatialTest {
 
