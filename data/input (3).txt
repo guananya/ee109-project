@@ -1,0 +1,260 @@
+I love Paris.*J'aime Paris.
+The sun is shining.*Le soleil brille.
+I eat an apple.*Je mange une pomme.
+We travel to France.*Nous voyageons en France.
+He reads a book.*Il lit un livre.
+It is raining.*Il pleut.
+They play football.*Ils jouent au football.
+The car is fast.*La voiture est rapide.
+I drink water.*Je bois de l'eau.
+She writes a letter.*Elle écrit une lettre.
+The children play.*Les enfants jouent.
+The window is open.*La fenêtre est ouverte.
+I see the mountains.*Je vois les montagnes.
+She sings beautifully.*Elle chante magnifiquement.
+We walk in the park.*Nous marchons dans le parc.
+He works in an office.*Il travaille dans un bureau.
+The cake is delicious.*Le gâteau est délicieux.
+They watch television.*Ils regardent la télévision.
+The dog sleeps.*Le chien dort.
+I buy a ticket.*J'achète un billet.
+She dances gracefully.*Elle danse gracieusement.
+We learn French.*Nous apprenons le français.
+He laughs.*Il rit.
+The book is on the shelf.*Le livre est sur l'étagère.
+They study hard.*Ils étudient dur.
+The door is closed.*La porte est fermée.
+I listen to music.*J'écoute de la musique.
+She teaches English.*Elle enseigne l'anglais.
+We visit the museum.*Nous visitons le musée.
+He misses the bus.*Il manque le bus.
+The sky is blue.*Le ciel est bleu.
+They swim in the pool.*Ils nagent dans la piscine.
+The baby cries.*Le bébé pleure.
+I cook dinner.*Je prépare le dîner.
+She takes a photo.*Elle prend une photo.
+We drive to the beach.*Nous conduisons à la plage.
+He dreams.*Il rêve.
+The train is late.*Le train est en retard.
+They dance at the party.*Ils dansent à la fête.
+The flowers are beautiful.*Les fleurs sont belles.
+I paint a picture.*Je peins un tableau.
+She jumps.*Elle saute.
+We laugh together.*Nous rions ensemble.
+He climbs the mountain.*Il grimpe la montagne.
+The sea is calm.*La mer est calme.
+They cycle in the countryside.*Ils font du vélo à la campagne.
+The apple is red.*La pomme est rouge.
+I play the guitar.*Je joue de la guitare.
+She looks at the stars.*Elle regarde les étoiles.
+We enjoy the movie.*Nous apprécions le film.
+He whistles.*Il siffle.
+The tree is tall.*L'arbre est grand.
+They run in the marathon.*Ils courent dans le marathon.
+The ice cream is cold.*La glace est froide.
+I wear glasses.*Je porte des lunettes.
+She combs her hair.*Elle se peigne.
+We celebrate the holiday.*Nous célébrons les vacances.
+He washes his car.*Il lave sa voiture.
+The wind blows.*Le vent souffle.
+They read newspapers.*Ils lisent des journaux.
+The cat purrs.*Le chat ronronne.
+I write a story.*J'écris une histoire.
+She watches birds.*Elle regarde les oiseaux.
+We drink coffee.*Nous buvons du café.
+He travels by train.*Il voyage en train.
+The bird sings.*L'oiseau chante.
+They hike in the forest.*Ils font de la randonnée dans la forêt.
+The fish swims.*Le poisson nage.
+I remember the past.*Je me souviens du passé.
+She opens the gift.*Elle ouvre le cadeau.
+We rest on Sundays.*Nous nous reposons le dimanche.
+He plays chess.*Il joue aux échecs.
+The river flows.*La rivière coule.
+They plant flowers.*Ils plantent des fleurs.
+The grass is green.*L'herbe est verte.
+I speak softly.*Je parle doucement.
+She counts the coins.*Elle compte les pièces.
+We love music.*Nous aimons la musique.
+He hopes for the best.*Il espère le meilleur.
+The house is big.*La maison est grande.
+They chat with friends.*Ils discutent avec des amis.
+The cake is sweet.*Le gâteau est sucré.
+I climb stairs.*Je monte les escaliers.
+She thinks deeply.*Elle réfléchit profondément.
+We wait for the bus.*Nous attendons le bus.
+He hides the truth.*Il cache la vérité.
+The dog barks.*Le chien aboie.
+They dream of travel.*Ils rêvent de voyager.
+The moon shines.*La lune brille.
+I share my food.*Je partage ma nourriture.
+She chooses a dress.*Elle choisit une robe.
+We sail on the sea.*Nous naviguons sur la mer.
+He fixes the computer.*Il répare l'ordinateur.
+The stars twinkle.*Les étoiles scintillent.
+They play basketball.*Ils jouent au basketball.
+The milk is fresh.*Le lait est frais.
+I admire art.*J'admire l'art.
+She collects stamps.*Elle collectionne les timbres.
+We sit on the bench.*Nous sommes assis sur le banc.
+He types fast.*Il tape vite.
+I am happy.*Je suis heureux.
+She speaks French.*Elle parle français.
+The cat is on the table.*Le chat est sur la table.
+He loves to read.*Il aime lire.
+They are going to the park.*Ils vont au parc.
+We have a big house.*Nous avons une grande maison.
+My favorite color is blue.*Ma couleur préférée est le bleu.
+It's a beautiful day.*C'est une belle journée.
+Are you coming to the party?*Viens-tu à la fête ?
+She plays the piano.*Elle joue du piano.
+They enjoy traveling.*Ils aiment voyager.
+The sun is shining.*Le soleil brille.
+He is a good friend.*Il est un bon ami.
+I need some help.*J'ai besoin d'aide.
+We're going to the beach.*Nous allons à la plage.
+She is a talented artist.*Elle est une artiste talentueuse.
+They live in a small town.*Ils habitent dans une petite ville.
+He cooks delicious meals.*Il cuisine des plats délicieux.
+She has a beautiful smile.*Elle a un beau sourire.
+We're going on vacation.*Nous partons en vacances.
+I like to read books.*J'aime lire des livres.
+The garden is full of flowers.*Le jardin est plein de fleurs.
+He speaks Spanish fluently.*Il parle couramment espagnol.
+She dances gracefully.*Elle danse avec grâce.
+We enjoy hiking in the mountains.*Nous aimons faire de la randonnée en montagne.
+They have two children.*Ils ont deux enfants.
+I'm going to the store.*Je vais au magasin.
+The movie was very entertaining.*Le film était très divertissant.
+She is a talented singer.*Elle est une chanteuse talentueuse.
+Do you like chocolate?*Aimes-tu le chocolat ?
+He plays soccer every weekend.*Il joue au football tous les week-ends.
+We're going to a concert tonight.*Nous allons à un concert ce soir.
+She is a dedicated teacher.*Elle est une enseignante dévouée.
+I have a busy schedule.*J'ai un emploi du temps chargé.
+They live in a beautiful house.*Ils habitent dans une belle maison.
+Can you pass me the salt?*Peux-tu me passer le sel ?
+He's wearing a red shirt.*Il porte une chemise rouge.
+She's reading a book.*Elle lit un livre.
+We need to finish this project.*Nous devons terminer ce projet.
+Is it raining outside?*Est-ce qu'il pleut dehors ?
+The weather is nice today.*Il fait beau aujourd'hui.
+She loves to travel.*Elle adore voyager.
+They are studying together.*Ils étudient ensemble.
+I can speak Spanish.*Je peux parler espagnol.
+He is a talented musician.*Il est un musicien talentueux.
+She wants to learn French.*Elle veut apprendre le français.
+They're going to the beach.*Ils vont à la plage.
+I enjoy cooking.*J'aime cuisiner.
+We need more time.*Nous avons besoin de plus de temps.
+Are you coming to the party?*Viens-tu à la fête ?
+He is a great athlete.*Il est un grand athlète.
+She has a beautiful voice.*Elle a une belle voix.
+They live in a small town.*Ils habitent dans une petite ville.
+I like to read books.*J'aime lire des livres.
+We're going on vacation.*Nous partons en vacances.
+She is very talented.*Elle est très talentueuse.
+He enjoys playing chess.*Il aime jouer aux échecs.
+They have a cute dog.*Ils ont un chien mignon.
+I need some help.*J'ai besoin d'aide.
+The cat is sleeping.*Le chat dort.
+I am a student.*Je suis étudiant(e).
+She enjoys dancing.*Elle aime danser.
+We like to watch movies.*Nous aimons regarder des films.
+He plays the guitar.*Il joue de la guitare.
+They speak English fluently.*Ils parlent anglais couramment.
+It's a beautiful sunset.*C'est un beau coucher de soleil.
+She has a new car.*Elle a une nouvelle voiture.
+We're going to the museum.*Nous allons au musée.
+He's a talented painter.*C'est un peintre talentueux.
+Do you want coffee or tea?*Tu veux du café ou du thé ?
+She is a great chef.*Elle est une excellente chef.
+They are in love.*Ils sont amoureux.
+I need a vacation.*J'ai besoin de vacances.
+The book is on the shelf.*Le livre est sur l'étagère.
+We are going shopping.*Nous allons faire les courses.
+She's a wonderful actress.*Elle est une merveilleuse actrice.
+He enjoys gardening.*Il aime jardiner.
+They're going for a walk.*Ils vont se promener.
+I have a big family.*J'ai une grande famille.
+She's wearing a blue dress.*Elle porte une robe bleue.
+The sky is clear today.*Le ciel est dégagé aujourd'hui.
+He plays basketball well.*Il joue bien au basket.
+She wants to learn to swim.*Elle veut apprendre à nager.
+They are going on a road trip.*Ils partent en voyage sur la route.
+I have a new phone.*J'ai un nouveau téléphone.
+She enjoys hiking in the forest.*Elle aime faire de la randonnée en forêt.
+We're going to a concert tomorrow.*Nous allons à un concert demain.
+He's a skilled engineer.*Il est un ingénieur compétent.
+She's a dedicated nurse.*Elle est une infirmière dévouée.
+They love to cook together.*Ils aiment cuisiner ensemble.
+I can speak Italian.*Je peux parler italien.
+We have a beautiful garden.*Nous avons un beau jardin.
+Are you feeling better?*Tu te sens mieux ?
+He is a successful businessman.*Il est un homme d'affaires réussi.
+She enjoys playing chess.*Elle aime jouer aux échecs.
+They live near the beach.*Ils habitent près de la plage.
+I need a vacation badly.*J'ai vraiment besoin de vacances.
+The children are playing outside.*Les enfants jouent dehors.
+She's a talented writer.*Elle est une écrivaine talentueuse.
+We're having a barbecue tonight.*Nous faisons un barbecue ce soir.
+She's a talented artist.*Elle est une artiste talentueuse.
+We're going on a road trip.*Nous partons en voyage sur la route.
+He's a skilled carpenter.*Il est un menuisier compétent.
+She's a passionate environmentalist.*Elle est une écologiste passionnée.
+They have a cozy cabin in the woods.*Ils ont un chalet confortable dans les bois.
+I like to jog in the morning.*J'aime courir le matin.
+He's an expert in computer programming.*Il est un expert en programmation informatique.
+She's a devoted mother.*Elle est une mère dévouée.
+We're attending a wedding this weekend.*Nous assistons à un mariage ce week-end.
+He enjoys playing the guitar by the campfire.*Il aime jouer de la guitare autour du feu de camp.
+She's a dedicated volunteer.*Elle est une bénévole dévouée.
+They are learning to cook French cuisine.*Ils apprennent à cuisiner la cuisine française.
+I need a new pair of shoes.*J'ai besoin d'une nouvelle paire de chaussures.
+She's a professional dancer.*Elle est danseuse professionnelle.
+We're planning a hiking trip in the mountains.*Nous planifions un voyage de randonnée en montagne.
+He's an experienced pilot.*Il est un pilote expérimenté.
+She's a talented fashion designer.*Elle est une styliste de mode talentueuse.
+They're going to a music festival.*Ils vont à un festival de musique.
+I enjoy gardening in my backyard.*J'aime jardiner dans mon jardin.
+He's an avid birdwatcher.*Il est un ornithologue passionné.
+She's a dedicated doctor.*Elle est une médecin dévouée.
+We're exploring a new hiking trail.*Nous explorons un nouveau sentier de randonnée.
+He's a passionate cyclist.*Il est un cycliste passionné.
+She's a talented chef.*Elle est une cheffe talentueuse.
+They're planning a beach vacation.*Ils planifient des vacances à la plage.
+I like to paint landscapes.*J'aime peindre des paysages.
+He's a successful entrepreneur.*Il est un entrepreneur à succès.
+She's an enthusiastic swimmer.*Elle est une nageuse enthousiaste.
+We're watching a documentary tonight.*Nous regardons un documentaire ce soir.
+He's a dedicated firefighter.*Il est un pompier dévoué.
+She's a skilled graphic designer.*Elle est une graphiste compétente.
+They're taking a photography class.*Ils suivent un cours de photographie.
+I enjoy hiking in the wilderness.*J'aime faire de la randonnée dans la nature sauvage.
+He's an expert in financial analysis.*Il est un expert en analyse financière.
+She's a talented poet.*Elle est une poétesse talentueuse.
+We're going to a science museum.*Nous allons dans un musée des sciences.
+He's a dedicated teacher.*Il est un enseignant dévoué.
+She's an experienced journalist.*Elle est une journaliste expérimentée.
+They're attending an art exhibition.*Ils assistent à une exposition d'art.
+I like to meditate in the morning.*J'aime méditer le matin.
+She's a passionate animal lover.*Elle est une amoureuse passionnée des animaux.
+He's an accomplished pianist.*Il est un pianiste accompli.
+We're planning a camping trip.*Nous prévoyons un voyage de camping.
+She's a dedicated social worker.*Elle est une travailleuse sociale dévouée.
+They're visiting historical landmarks.*Ils visitent des sites historiques.
+I enjoy taking long walks in the park.*J'aime faire de longues promenades dans le parc.
+He's an expert in astrophysics.*Il est un expert en astrophysique.
+She's a talented ballet dancer.*Elle est une danseuse de ballet talentueuse.
+We're going to a comedy show.*Nous allons à un spectacle de comédie.
+He's a skilled mechanic.*Il est un mécanicien compétent.
+She's an avid birdwatcher.*Elle est une ornithologue passionnée.
+They're participating in a charity run.*Ils participent à une course caritative.
+I like to cook exotic dishes.*J'aime cuisiner des plats exotiques.
+He's a successful author.*Il est un auteur à succès.
+She's a dedicated nurse practitioner.*Elle est une infirmière praticienne dévouée.
+We're attending a wine tasting event.*Nous assistons à une dégustation de vin.
+He's a talented stand-up comedian.*Il est un comédien de stand-up talentueux.
+She's a passionate environmental activist.*Elle est une militante environnementale passionnée.
+They're going on a cross-country road trip.*Ils partent en voyage à travers le pays.
+I enjoy stargazing at night.*J'aime observer les étoiles la nuit.
