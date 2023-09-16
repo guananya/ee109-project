@@ -28,7 +28,9 @@ The model is intentionally designed to be straightforward to ensure that the pri
 ### 2.2 Data Representation and Processing:
 
 #### Data Source:
-All input and target sequences are derived from the "input.txt" file, serving as the dataset.
+All input and target sequences are derived from the "input.txt" file, serving as the dataset with english and french sentences formatted like: 
+I eat an apple.*Je mange une pomme.
+Where the english sentence is seperated from the french translation with an asterisk. Furthermore, the current input.txt has only around 300 samples which is very small, and has a lot of potential to be increased to potentially produce better results. 
 
 #### Data Processing Pipeline:
 1. Sequences are separated, tokenized, and stored.
