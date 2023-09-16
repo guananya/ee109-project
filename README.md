@@ -1,6 +1,4 @@
-# ee109-project
-
-# Project Report: Sequence-to-Sequence Translation on FPGA using Spatial
+# ee109-project: Sequence-to-Sequence Translation using Spatial
 
 ## 1. Introduction:
 ### Background:
