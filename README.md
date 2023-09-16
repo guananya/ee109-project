@@ -66,6 +66,8 @@ FPGA offers parallel computation capabilities, enabling faster inference, especi
 
 ## 5. Preliminary FPGA (Spatial) Implementation:
 
+![alt text](https://github.com/guananya/ee109-project/blob/main/img/ee109-blockdiag.jpg?raw=true)
+
 ### 5.1 Data Representation and Transfer:
 
 #### Fixed-Point Arithmetic:
