@@ -40,6 +40,8 @@ Where the english sentence is seperated from the french translation with an aste
 
 ### 3.1 Training in Python Environment:
 
+![alt text](https://github.com/guananya/ee109-project/blob/main/img/trainGraph.jpg?raw=true)
+
 #### Training Dynamics:
 With the categorical cross-entropy loss and the Adam optimizer, the model is trained iteratively to reduce discrepancies between its predictions and actual translations.
 
